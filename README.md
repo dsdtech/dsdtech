@@ -9,7 +9,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=dsdtech&theme=gitdimmed&no-frame=false&no-bg=true&margin-w=4)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dsdtech&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dsdtech&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dsdtech&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
